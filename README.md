@@ -1,2 +1,2 @@
-# This is my Python portfolio from the "Data Science Professional Certificate" by IBM at Coursera
+# This is my Portfolio covering analytics projects.
 
